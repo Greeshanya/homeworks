@@ -1,0 +1,74 @@
+@import url(reset.css);
+
+.name	{
+	height: 50px;
+	width: auto;	
+	background-color: red;
+	color: white;
+	font-size: 20px;
+	padding-top: 25px;
+	padding-left: 40px;
+	position: static;
+}
+
+.gradients {
+	height: 580px;
+	width: 1380px;
+	position: static;
+}
+
+.first, .second, .third {
+	height: 400px;
+	width: 280px;
+	color: black;
+	border: 5px solid yellow;
+	display: inline-block;
+	border-radius: 30px;
+	padding: 30px 20px;
+	margin-top: 60px;
+	position: absolute;
+}
+
+.first {
+	margin-left: 100px;
+}
+
+.second {
+	margin-left: 580px;
+}
+
+.third {
+	margin-left: 1060px;
+}
+
+h1 {
+	font-size: 24px;
+	font-style: bold;
+}
+
+.text-name {
+	margin-top: 20px;
+	font-style: italic;
+}
+
+.links	{
+	height: 50px;
+	width: auto;	
+	background-color: red;
+	font-size: 20px;
+	padding-top: 20px;
+	position: static;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+.povar {
+	margin-left: 40px;
+}
+
+.back {
+	margin-left: 1300px;
+}
